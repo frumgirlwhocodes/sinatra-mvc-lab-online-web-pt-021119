@@ -1,4 +1,4 @@
-lass PigLatinizer
+class PigLatinizer
 
   def piglatinize(user_phrase)
     @new_word = user_phrase.split("")
